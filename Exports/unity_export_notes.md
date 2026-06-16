@@ -1,0 +1,1 @@
+Export FBX with Apply Transform enabled for Unity.
